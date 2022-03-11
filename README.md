@@ -18,10 +18,9 @@ Please go to <br>
 
 <br>
 
-![Image text](https://github.com/lch99310/UMD_Info_Challenge_2022/blob/main/pic/Slide1.png)
+![Image text](https://github.com/lch99310/UMD_Info_Challenge_2022/blob/main/pic/poster.png)
 
 <br>
-
 <br>
 <br>
 
