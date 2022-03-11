@@ -16,5 +16,9 @@ Please go to <br>
 "IC22_team4_Predicting Removed Loan - Paycheck Protection Program Application.pptx.pdf" for our presentation. <br>
 "IC22004_Predicting Removed Loan - Paycheck Protection Program Application.ipynb" for code and markdown. 
 
-
+<br>
+![Image text](https://github.com/lch99310/UMD_Info_Challenge_2022/blob/main/pic/Slide1.png)
+<br>
+<br>
+<br>
 ![Image text](https://github.com/lch99310/UMD_Info_Challenge_2022/blob/main/pic/60D580CD-8D74-42C1-BDC1-960E0B20C406.JPG)
