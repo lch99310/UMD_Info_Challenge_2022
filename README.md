@@ -13,7 +13,7 @@ Please see below for more details <br>
 
 <br>
 
-![Image text](https://github.com/lch99310/UMD_Info_Challenge_2022/blob/main/pic/poster.png)
+![](https://github.com/lch99310/UMD_Info_Challenge_2022/blob/main/pic/poster.png)
 <br>
 <br>
-![Image text](https://github.com/lch99310/UMD_Info_Challenge_2022/blob/main/pic/60D580CD-8D74-42C1-BDC1-960E0B20C406.JPG)
+![](https://github.com/lch99310/UMD_Info_Challenge_2022/blob/main/pic/60D580CD-8D74-42C1-BDC1-960E0B20C406.JPG)
